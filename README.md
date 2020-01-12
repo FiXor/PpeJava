@@ -7,39 +7,32 @@
 
 **Introduction**
 
-Ce projet correspond à une application permettant de gérer le parcours professionnel des étudiants du BTS SIO. Le composant disponible ci dessus est l'espace administrateur de l'application.
+Ce projet correspond à une application permettant de gérer le parcours professionnel des étudiants du BTS SIO.
 
-Développement de composants java permettant de :
+Voici les différents composants et les différentes fonctionnalitées du logiciel :
 
-1.  S’enregistrer dans un système d’information (S.I.) (champ identifiant, mot de passe, nom, prénom, numéro de téléphone, date de naissance, photo. PAQUETAGE : com.karimandco.auth
+1.  S’enregistrer dans un système d’information (S.I.) 
+    **PAQUETAGE :**  com.karimandco.auth
     
-2.  S’identifier dans un système d’information (champ identifiant et mot de passe) PAQUETAGE : com.karimandco.auth
+2.  S’identifier dans un système d’information 
+    **PAQUETAGE  :**  com.karimandco.auth
     
-3.  uploader une photo, la stocker dans le S.I. et l’afficher dans un JPanel PAQUETAGE : com.karimandco.photo
+3.  uploader une photo, la stocker dans le S.I. et l’afficher dans un JPanel
+    **PAQUETAGE  :**  com.karimandco.photo
     
-4.  saisir et gérer des lignes d’un CV, un utilisateur pourra avoir un cv composé de :
-    
+4.  saisir et gérer des lignes d’un CV
+	**PAQUETAGE  :**  com.karimandco.cv
 
-1.  titre
-    
-2.  formation.s (année - lieu)
-    
-3.  expériences pro (année - lieu)
-    
-
-PAQUETAGE : com.karimandco.cv
-
-5.  gérer un espace administrateur - crud sur les utilisateurs PAQUETAGE : com.karimandco.admin
+5.  gérer un espace administrateur - crud sur les utilisateurs 
+	 **PAQUETAGE :**  com.karimandco.admin
     
 6.  générer en pdf le cv
-    
-
-PAQUETAGE : com.karimandco.pdf
+	 **PAQUETAGE :** com.karimandco.cv
 
 
 **Fonctionnalités**
 
-Avec ce composant, on peut :
+Avec ce logiciel, on peut :
 
 ```
 -   Voir les différents utilisateurs créer
