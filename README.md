@@ -36,6 +36,7 @@ PAQUETAGE : com.karimandco.cv
 
 PAQUETAGE : com.karimandco.pdf
 
+
 **Fonctionnalités**
 
 Avec ce composant, on peut :
@@ -52,16 +53,19 @@ Avec ce composant, on peut :
 
 ```
 
+
 **Documentation**
 
 Javadoc :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1WrhycMSDc_J2tnBF_AOnucj6STEesQYp)
 
 Document utilisateur :  [cliquez-ici](https://docs.google.com/document/d/15QIxRUZaRtbfLVSUj3wGbymef0nRDSqZLrFwba0LdTQ/edit)
 
+
 **Dépendances utilisés**
 
 Pour voir et télécharger les dependances :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1dKuqR9ON-Xatcf9F6PNjLwxOV_AhOw_f)
 Les dépendances a ajouter se trouve aussi dans le dossier PPE/dist/lib
+
 
 **Mise en marche du composant**
 
@@ -70,8 +74,11 @@ Les dépendances a ajouter se trouve aussi dans le dossier PPE/dist/lib
 3.  Copier coller les trois packages "com.karimandco.admin", "com.karimandco.auth" et "com.karimandco.bdd dans votre nouveau projet ou ouvrir le projet avec votre IDE
 4.  Ajouter la librairie JCBD à votre projet Sur NetBeans clic droit sur le projet, propriété, Libraries, add Library. Si la Library JCBD n'existe pas aller sur  [https://dev.mysql.com/downloads/connector/j/](https://dev.mysql.com/downloads/connector/j/)
 5.  Ajouter les dépendances. Sur NetBeans clic droit sur le projet, propriété, Libraries, add JAR/Folder. Dépendances :  [cliquez-ici](https://drive.google.com/drive/folders/1dKuqR9ON-Xatcf9F6PNjLwxOV_AhOw_f?usp=sharing)
+6.  Lancer le logiciel sur NetBeans : le fichier correspondant se trouve dans le package com.karimandco.logiciel   -> Logiciel.java
+    Lancer le logiciel via exécutable PPE se trouvant dans PPE/dist
 
 Info importante : - Il se peut que le package "com.karimandco.auth" soit mise à jour assez régulièrement.Pour télécharger la dernière version  [cliquez-ici](https://github.com/pawel956/projetKarimAndCo_ConnexionInscription/)
+
 
 **Informations divers**
 
