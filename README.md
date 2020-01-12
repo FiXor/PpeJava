@@ -51,11 +51,9 @@ Avec ce composant, on peut :
 
 **Documentation**
 
-Javadoc : [cliquez-ici] : ([https://drive.google.com/drive/u/0/folders/1WrhycMSDc_J2tnBF_AOnucj6STEesQYp])
-Pour la javadoc télécharger ce dossier et ouvrir index.html avec votre navigateur
+Javadoc :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1WrhycMSDc_J2tnBF_AOnucj6STEesQYp)
 
-Document utilisateur :  [cliquez-ici](https://docs.google.com/document/d/1SoZUUYuQD3gA_-CL9Uf7U8R_goBUg8Na-MeSQCfs1do/edit?usp=sharing)
-[cliquez-ici]([https://drive.google.com/drive/u/0/folders/1vnjQsrF4dIv3KNwGcRKz7tZwBqSLHpu8](https://drive.google.com/drive/u/0/folders/1vnjQsrF4dIv3KNwGcRKz7tZwBqSLHpu8))
+Document utilisateur :  [cliquez-ici](https://docs.google.com/document/d/15QIxRUZaRtbfLVSUj3wGbymef0nRDSqZLrFwba0LdTQ/edit)
 
 **Dépendances utilisés**
 
