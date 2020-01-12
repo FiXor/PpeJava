@@ -47,6 +47,9 @@ Avec ce composant, on peut :
 -   Supprimer tout les utilisateurs
 -   Supprimer Modifier les valeurs d'un utilisateur 
 
+-   Créer un curriculum vitae
+-   Ajouter une photo à notre CV
+
 ```
 
 **Documentation**
@@ -57,7 +60,8 @@ Document utilisateur :  [cliquez-ici](https://docs.google.com/document/d/15QIxRU
 
 **Dépendances utilisés**
 
-
+Pour voir et télécharger les dependances :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1dKuqR9ON-Xatcf9F6PNjLwxOV_AhOw_f)
+Les dépendances a ajouter se trouve aussi dans le dossier PPE/dist/lib
 
 **Mise en marche du composant**
 
