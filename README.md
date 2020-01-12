@@ -29,7 +29,6 @@ Voici les différents composants et les différentes fonctionnalitées du logici
 6.  générer en pdf le cv
 	 **PAQUETAGE :** com.karimandco.cv
 
-<br>
 
 **Fonctionnalités**
 
@@ -47,20 +46,20 @@ Avec ce logiciel, on peut :
 
 ```
 
-<br>
+
 **Documentation**
 
 Javadoc :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1WrhycMSDc_J2tnBF_AOnucj6STEesQYp)
 
 Document utilisateur :  [cliquez-ici](https://docs.google.com/document/d/15QIxRUZaRtbfLVSUj3wGbymef0nRDSqZLrFwba0LdTQ/edit)
 
-<br>
+
 **Dépendances utilisés**
 
 Pour voir et télécharger les dependances :  [cliquez-ici](https://drive.google.com/drive/u/0/folders/1dKuqR9ON-Xatcf9F6PNjLwxOV_AhOw_f)
 Les dépendances a ajouter se trouve aussi dans le dossier PPE/dist/lib
 
-<br>
+
 **Mise en marche du composant**
 
 1.  Télécharger le composant en cliquant sur le bouton vert "Clone or Download" puis "Download ZIP".
@@ -73,7 +72,7 @@ Les dépendances a ajouter se trouve aussi dans le dossier PPE/dist/lib
 
 Info importante : - Il se peut que le package "com.karimandco.auth" soit mise à jour assez régulièrement.Pour télécharger la dernière version  [cliquez-ici](https://github.com/pawel956/projetKarimAndCo_ConnexionInscription/)
 
-<br>
+
 **Informations divers**
 
 Les actions de suppression sont protégées par un identifiant et un mot de passe administrateur.  
