@@ -30,6 +30,7 @@ Voici les différents composants et les différentes fonctionnalitées du logici
 	 **PAQUETAGE :** com.karimandco.cv
 
 
+
 **Fonctionnalités**
 
 Avec ce logiciel, on peut :
